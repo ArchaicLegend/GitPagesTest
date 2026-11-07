@@ -1,6 +1,6 @@
 import Odometer, {
   FACE_FAMILY,
-} from "./lib/odometer.mjs";
+} from "https://cdn.jsdelivr.net/npm/tactile-odometer@1.1.1/odometer.mjs";
 
 const odometer = new Odometer(document.getElementById("odometer"), {
   value: 1099,
