@@ -1,4 +1,4 @@
-@import url("./lib/odometer.css");
+@import url("https://cdn.jsdelivr.net/npm/tactile-odometer@1.1.1/odometer.css");
 
 :root {
   color-scheme: dark;
